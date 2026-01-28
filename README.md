@@ -14,10 +14,7 @@ While my academic background is in Data Science and Statistics, my true strength
 * **Problem Solving:** Logical thinking and systematic approach to challenges.
 * **Communication:** Presenting insights clearly to stakeholders (Thai/English).
 * **Tools:** Microsoft Excel, PowerPoint, SQL, Tableau, Python (for Data Analysis).
-
-📂 **Featured Projects:**
-* **[Daily Bike Rental Forecasting](link-to-repo):** Analyzed demand trends to optimize fleet management resources.
-* **[Earthquake Risk Assessment](link-to-repo):** Evaluated risk factors to summarize safety insights.
-
+*
+  
 ---
 📫 **Connect with me:** [https://www.linkedin.com/in/pakchira-vichayavanich-aa9283396/]
